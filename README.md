@@ -24,7 +24,7 @@
   <a href="https://www.linkedin.com/in/thiago-henrique-71353719b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
   
-  ![Snake animation](https://github.com/rafaballerini/thiagohenrique661/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/thiagohenrique661/thiagohenrique661/blob/output/github-contribution-grid-snake.svg)
   
   
   </div> 
