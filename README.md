@@ -1,4 +1,4 @@
-# Olá, eu sou a Thiago Henrique! Sou desenvolvedor front end 💻
+# Olá, eu sou o Thiago Henrique! Sou desenvolvedor FullStack 💻
 <div align="center">
   <a href="https://github.com/thiagohenrique661">
  
