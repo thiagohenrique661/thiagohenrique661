@@ -13,7 +13,6 @@
   <img align="center" alt="thi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="thi-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="thi-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-  <img align="right" alt="thi-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/751152263220691007/1029087664944721930/thi2.png?width=540&height=540">
   
 </div>
   
